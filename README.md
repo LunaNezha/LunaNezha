@@ -1,4 +1,4 @@
-Hi 👋 My name is Luna Nezha
+Hi 👋 My name is Luna
 ===========================
 
 Seasoned front-end developer with over eight years of experience specializing in pharmacy-focused solutions. Proven expertise in building scalable systems that enhance patient care and streamline pharmacy management. Delivering impactful software solutions with measurable outcomes, such as improving operational efficiency, reducing errors, and elevating user satisfaction.
