@@ -1,7 +1,7 @@
 Hey 👋 I'm Luna
 ===========================
 
-Seasoned front-end developer with over eight years of experience specializing in pharmacy-focused solutions. Proven expertise in building scalable systems that enhance patient care and streamline pharmacy management. Delivering impactful software solutions with measurable outcomes, such as improving operational efficiency, reducing errors, and elevating user satisfaction.
+Front-end developer with over 8 years of experience delivering tailored solutions in the pharmacy and healthcare sectors. Adept at building scalable, web-based platforms that enhance patient care, and streamline pharmacy operations. Proficient in optimizing performance, designing secure authentication systems, and creating user-centered applications.
 
 * 🖥️  See my portfolio at [lunanezha.com](http://lunanezha.com)
 * ✉️  You can contact me at [mahdie.nezhadhosseini@gmail.com](mailto:mahdie.nezhadhosseini@gmail.com)
